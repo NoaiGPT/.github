@@ -1,4 +1,4 @@
-## MUJI 👋
+## Welcome 👋
 
 <!--
 
